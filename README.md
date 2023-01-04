@@ -1,3 +1,11 @@
+<h1 align="center">
+  react-gh-pages
+</h1>
+
+<p align="center">
+   A React application for github pages with reference of https://github.com/gitname/react-gh-pages
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
