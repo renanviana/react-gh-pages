@@ -1,5 +1,5 @@
 <h1 align="center">
-  react-gh-pages
+  <a href="https://renanviana.github.io/react-gh-pages/" target="_blank">react-gh-pages</a>
 </h1>
 
 <p align="center">
